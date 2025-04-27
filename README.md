@@ -1,4 +1,6 @@
 # Customer Retention Enhancement through Predictive Analytics
+As part of a job simulation for Lloyds Banking Group's Data Science & Analytics team, I tackled a customer churn prediction challenge.
+
 ## 1. Problem Statement
 SmartBank aims to reduce customer churn by predicting which customers are likely to leave. To build an accurate predictive model, we need to gather relevant customer data, explore behavioural patterns through EDA, and prepare a clean, structured dataset that reveals key drivers behind churn.
 
