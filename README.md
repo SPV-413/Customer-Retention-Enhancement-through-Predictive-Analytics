@@ -2,7 +2,7 @@
 As part of a **Job Simulation** for **Lloyds Banking Group's Data Science & Analytics team**, I tackled a **Customer Churn Prediction** challenge.
 
 ## 1. Problem Statement
-SmartBank aims to reduce customer churn by predicting which customers are likely to leave. To build an accurate predictive model, we need to gather relevant customer data, explore behavioural patterns through EDA, and prepare a clean, structured dataset that reveals key drivers behind churn.
+Fictional client, SmartBank aims to reduce customer churn by predicting which customers are likely to leave. To build an accurate predictive model, we need to gather relevant customer data, explore behavioural patterns through EDA, and prepare a clean, structured dataset that reveals key drivers behind churn.
 
 ## 2. Datasets Selected and Rationale
 Selected all sheets from the provided Excel file Customer_Churn_Data_Large.xlsx to ensure a comprehensive view of customer behavior. These included:
