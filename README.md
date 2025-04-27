@@ -31,8 +31,9 @@ Combining these datasets provides a holistic view of each customer’s profile, 
 - **LoginFrequency**: How often the customer logs in or uses the service.
 - **ServiceUsage**: Digital channels through which customers interact with and access their banking services.
 - **ChurnStatus**: Target variable indicating whether the customer has churned (left the service) or not.
-  
-## 4. Visualizations and Statistical Summaries from EDA
+
+## 4. Project Workflow
+### Visualizations and Statistical Summaries from EDA
 - Churn does not seem to be heavily influenced by age, as churned customers are evenly spread across all ages. 
 - Customers who spend less are more likely to churn.
 - Customers with lower login frequency are more likely to churn.
@@ -44,7 +45,7 @@ Combining these datasets provides a holistic view of each customer’s profile, 
 - Unresolved issues are more likely to churn.
 - Higher counts for "Online Banking" and Churn risk is lower.
 
-## 5. Cleaned and Preprocessed Data 
+### Cleaned and Preprocessed Data 
 - Identifying any null values
 - Removing duplicates
 - Identifying corrupted data
@@ -56,3 +57,31 @@ Combining these datasets provides a holistic view of each customer’s profile, 
 - Data splitting
 - Addressing class imbalance.
 
+### Machine Learning Models
+The project implements multiple machine learning models & one deep learning model for multi-class classification:
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- Gradient Boosting Classifier
+- K-Neighbors Classifier(KNN)
+- Support Vector Classifier(SVC)
+- Multi-layer Perceptron (MLP) Classifier
+
+### Hyperparameter Tuning
+- GridSearchCV is used to optimize model parameters.
+
+### Model Evaluation
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+
+## 5. Business Utilization
+- Identify customers at risk of churn.
+- Enable proactive retention strategies(personalized offers, targeted campaigns).
+
+## 6. Potential Improvements
+- Retrain model periodically with new data.
+- Incorporate additional behavioral features.
+
+## Conclusion
+This project demonstrates that machine learning models - particularly **Gradient Boosting** model can accurately predict customer churn. These insights will help Lloyds Banking Group reduce attrition and boost customer lifetime value through informed, data-driven strategies.
