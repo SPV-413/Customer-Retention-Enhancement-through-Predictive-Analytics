@@ -86,4 +86,4 @@ The project implements multiple machine learning models & one deep learning mode
 - Incorporate additional behavioral features.
 
 ## Conclusion
-This project demonstrates that machine learning models - particularly **Gradient Boosting** model can accurately predict customer churn. These insights will help Lloyds Banking Group reduce attrition and boost customer lifetime value through informed, data-driven strategies.
+This project demonstrates that machine learning models - particularly **Gradient Boosting** model can accurately predict customer churn. These insights will help SmartBank to reduce attrition and boost customer lifetime value through informed, data-driven strategies.
