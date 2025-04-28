@@ -60,7 +60,7 @@ Combining these datasets provides a holistic view of each customer’s profile, 
 - Addressing class imbalance.
 
 ### Machine Learning Models
-The project implements multiple machine learning models & one deep learning model for multi-class classification:
+The project implements multiple machine learning models & one deep learning model for classification:
 - Logistic Regression
 - Decision Tree Classifier
 - Random Forest Classifier
