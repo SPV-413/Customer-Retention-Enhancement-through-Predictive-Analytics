@@ -87,3 +87,6 @@ The project implements multiple machine learning models & one deep learning mode
 
 ## Conclusion
 This project demonstrates that machine learning models - particularly **Gradient Boosting** model can accurately predict customer churn. These insights will help SmartBank to reduce attrition and boost customer lifetime value through informed, data-driven strategies.
+
+## Contact
+For any inquiries, reach out via GitHub or email.
